@@ -10,6 +10,7 @@ Suatu hari, departemen marketing & promotion meminta bantuan untuk meng-query da
 Buatlah query menggunakan tabel ms_pelanggan dan tr_penjualan untuk mendapatkan data - data yang diminta oleh marketing yaitu kode_pelanggan, nama_customer, alamat.
 
 **Tabel ms_pelanggan**:
+
 ![image](https://github.com/user-attachments/assets/d9daba9d-60bb-40fb-a3f4-f775f2dff105)
 
 
